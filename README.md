@@ -1,5 +1,5 @@
 ## Hello, I'm Dima <img align="left" alt="HTML5" width="26" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" /> ⭐💚 📚 ❤ 🐛 🍎 🎏
-### I'm a student and I really love programming. My specialty is "Software Engineering". I'm studying in the 3rd year.
+### I'm a student and I really love programming. My specialty is "Software Engineering". I'm studying in the 4rd year.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 #### I LIKE 
 ##### ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
