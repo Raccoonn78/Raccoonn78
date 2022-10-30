@@ -17,11 +17,11 @@
     <path d="M4 16 C1 12 2 6 7 4 12 2 15 6 16 8 17 6 21 2 26 4 31 6 31 12 28 16 25 20 16 28 16 28 16 28 7 20 4 16 Z" />
 </svg>
 
-Большой (large):    
-[![codewars]([https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username](https://www.codewars.com/users/Raccoonn78/badges/large))   
+Большой (large):  
+[![codewars](https://www.codewars.com/users/Raccoonn78/badges/large)](https://www.codewars.com/users/Raccoonn78)   
 
-Маленький (small):    
-[![codewars]([https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/username](https://www.codewars.com/users/Raccoonn78/badges/small)) 
+Маленький (small):  
+[![codewars](https://www.codewars.com/users/Raccoonn78/badges/small)](https://www.codewars.com/users/Raccoonn78) 
 
-Крошечный (micro):    
-[![codewars]([https://www.codewars.com/users/username/badges/micro)](https://www.codewars.com/users/username](https://www.codewars.com/users/Raccoonn78/badges/micro)) 
+Крошечный (micro):  
+[![codewars](https://www.codewars.com/users/Raccoonn78/badges/micro)](https://www.codewars.com/users/Raccoonn78) 
