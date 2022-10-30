@@ -20,4 +20,4 @@
 Codewars:  
 [![codewars](https://www.codewars.com/users/Raccoonn78/badges/large)](https://www.codewars.com/users/Raccoonn78)   
 
-![snake gif](https://github.com/Raccoonn78/Raccoonn78/blob/output/github-contribution-grid-snake.gif)
+![GitHub Snake Light](https://github.com/Raccoonn78/Raccoonn78/blob/output/github-contribution-grid-snake.gif)
