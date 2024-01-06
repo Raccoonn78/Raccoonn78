@@ -3,14 +3,9 @@
 
 <br><br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg) <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br><br><br>
-<br><br><br>
-<br><br><br>
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Raccoonn78/Raccoonn78/edit/main/my_file/giphy.gif">
 
 <br><br><br>
-<br><br><br>
-<br><br><br>
+<img hight="100" width="450" alt="GIF" align="right" src="https://github.com/Raccoonn78/Raccoonn78/blob/main/my_file/giphy.gif">
 
 
 
@@ -47,6 +42,8 @@
 - 🐛 Gaming Addict
 - 🐛 Collecting snow globes
 
+## - Abilities :
+- 🐛 Punctual person
 
 </br>
 </br>
