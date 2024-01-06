@@ -34,7 +34,7 @@
 
 ### - Hobbies : 
 - 🐛 Gaming Addict
-- 🐛 Watching Anime
+- 🐛 Collecting snow globes
 
 
 </br>
