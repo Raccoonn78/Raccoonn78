@@ -10,7 +10,7 @@
 
 
 #### I LIKE :heart_eyes_cat:
-##### ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)\
+##### ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <img hight="70" width="70" alt="GIF" align="right" src="https://github.com/Raccoonn78/Raccoonn78/blob/main/my_file/XOsX.gif">
 
