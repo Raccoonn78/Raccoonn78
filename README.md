@@ -2,7 +2,7 @@
 ### I'm a student and I really love programming. My specialty is "Software Engineering".  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+
 
 
 
@@ -10,7 +10,10 @@
 
 
 #### I LIKE :heart_eyes_cat:
-##### ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+##### ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)\
+
+<img hight="70" width="70" alt="GIF" align="right" src="https://github.com/Raccoonn78/Raccoonn78/blob/main/my_file/XOsX.gif">
+
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 	<img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
  
@@ -41,7 +44,8 @@
 ### - Learning :
 - 🐛 Data Structures & Algorithms
 - 🐛 Generative Adversarial Networks
-- 🐛 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ 
+<img hight="70" width="50" alt="GIF" align="right" src="https://github.com/Raccoonn78/Raccoonn78/blob/main/my_file/cat.gif">
 
 ### - Hobbies : 
 - 🐛 Gaming Addict
@@ -61,7 +65,7 @@
 <br />
 <br />
 <br />
-<br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 ##### I just really like this gif, I'm sorry, I couldn't resist
 
