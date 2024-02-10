@@ -1,5 +1,5 @@
-## Hello, I'm Dima <img align="left" alt="HTML5" width="26" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" /> ⭐💚 📚 ❤ 🐛 🍎 🎏
-### I'm a student and I really love programming. My specialty is "Software Engineering".  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+## Hello, I'm Dima  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+### I'm a student and I really love programming. My specialty is "Software Engineering". 
 
  
 
